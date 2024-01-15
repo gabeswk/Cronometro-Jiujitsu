@@ -1,0 +1,6 @@
+setup.py
+cronometrojiu.py.egg-info/PKG-INFO
+cronometrojiu.py.egg-info/SOURCES.txt
+cronometrojiu.py.egg-info/dependency_links.txt
+cronometrojiu.py.egg-info/requires.txt
+cronometrojiu.py.egg-info/top_level.txt
